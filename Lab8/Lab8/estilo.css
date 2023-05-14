@@ -1,0 +1,15 @@
+﻿^contentpage {
+    background-color: deepskyblue;
+}
+
+
+.lblTitulo {
+    margin: 5;
+    font-style: bold;
+    font-size: medium;
+    text-align: center;
+}
+stacklayout{
+    background-color:cadetblue;
+    margin: 20;
+}
